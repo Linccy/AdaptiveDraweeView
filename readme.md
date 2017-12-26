@@ -5,6 +5,9 @@
 这是一个基于Fresco的SimpleDraweeView的自定义View
 支持根据网络图片的大小自适应宽高
 
+- 支持SimpleDraweeView的所有特性
+- 支持设置最小宽高和最大宽高
+
 ## 范例
 #### 在Xml中配置
 ```
